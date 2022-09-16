@@ -41,4 +41,4 @@ Usage:
 
 **WARNING: This should ONLY be used on batch files. This is a lossless compression**.
 
-**Copyright (c) 2022 anic17 Software**
+**Copyright &copy; 2022 anic17 Software**
